@@ -8,6 +8,7 @@ namespace IIATestGit
 {
     static class Program
     {
+        //commentaire
         /// <summary>
         /// Point d'entrée principal de l'application.
         /// </summary>
